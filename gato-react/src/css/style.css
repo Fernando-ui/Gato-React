@@ -1,0 +1,15 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html {
+  font-size: 62.5%;
+  font-family: 'lato', sans-serif;
+  /* Convertimos el tamaño a 10px porque 1 rem es igual a 10px */
+  /* Se coloca 62.5% para que en cualquier navegador se pueda usar como equivalente y que no todsas las personas puedan moverle a nuestras medidas, estas que necesitamos */ }
+
+body {
+  box-sizing: border-box;
+  font-family: 'Lato',sans-serif; }
